@@ -16,4 +16,6 @@ This repository contains the design files and gerbers for the frequency offset a
 
 ![bottom silk screen](images/VK5HSE-fox-attenuator-v1-2.bottom.silk.png)
 
+The box mounting hole dimensions suit Jaycar HB6015 or similar ABS "Jiffy Box" enclosures 
+
 ![box dimensions](images/box-dimensions.svg)
