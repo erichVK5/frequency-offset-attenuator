@@ -4,7 +4,7 @@ This repository contains the design files and gerbers for the frequency offset a
 
 The layout file VK5HSE-fox-attenuator-v1-2.lht can be opened and modified in the open source PCB layout editor pcb-rnd ( http://www.repo.hu/projects/pcb-rnd )
 
-The gerbers have been exported using a fairly common naming convention compatible with seeed studio and other PCB fabricators. 
+The gerbers have been exported using a fairly common naming convention compatible with seeed studio and other PCB fabricators. The gerbers can be viewed in the open source gerber viewer camv-rnd ( http://www.repo.hu/projects/camv-rnd )
 
 ![final assembly step](images/final-assembly-step.JPG)
 
@@ -19,6 +19,10 @@ The gerbers have been exported using a fairly common naming convention compatibl
 ![bottom copper](images/VK5HSE-fox-attenuator-v1-2.bottom.copper.png)
 
 ![bottom silk screen](images/VK5HSE-fox-attenuator-v1-2.bottom.silk.png)
+
+Gerbers being viewed in the open source gerber viewer camv-rnd ( http://www.repo.hu/projects/camv-rnd )
+
+![Gerbers](camv-rnd-viewing-gerbers.jpg)
 
 The box mounting hole dimensions suit Jaycar HB6015 or similar ABS "Jiffy Box" enclosures 
 
