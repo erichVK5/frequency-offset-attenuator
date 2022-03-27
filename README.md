@@ -22,7 +22,7 @@ The gerbers have been exported using a fairly common naming convention compatibl
 
 Gerbers being viewed in the open source gerber viewer camv-rnd ( http://www.repo.hu/projects/camv-rnd )
 
-![Gerbers](camv-rnd-viewing-gerbers.jpg)
+![Gerbers](images/camv-rnd-viewing-gerbers.jpg)
 
 The box mounting hole dimensions suit Jaycar HB6015 or similar ABS "Jiffy Box" enclosures 
 
